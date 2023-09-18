@@ -8,6 +8,9 @@ const app = require('./src/app');
 //configuracion de .env (fichero de entorno)
 require('dotenv').config();
 
+// configuracion base de datos
+require('./src/config/db');
+
 //creacion del servidor
 const server = http.createServer(app) /* cualquier peticion que entre en nuestro servidor la gestionamos con la app express */
 
