@@ -1,0 +1,9 @@
+@host = http://localhost
+
+@port = 3000
+
+@apiCartas = /api/cartas
+
+##########################
+
+GET {{host}}:{{port}}{{apiCartas}}
