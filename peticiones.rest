@@ -7,3 +7,7 @@
 ##########################
 
 GET {{host}}:{{port}}{{apiCartas}}
+
+###
+
+GET {{host}}:{{port}}{{apiCartas}}/64fc7055c18c4140320d94e3

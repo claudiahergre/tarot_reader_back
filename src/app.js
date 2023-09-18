@@ -12,7 +12,7 @@ app.get('/prueba', (req, res) => {
 
 // rutas
 app.use('/api', require('./routes/api'));
-app.use('/cartas', require('./routes/api/cartas'));
+
 
 
 
