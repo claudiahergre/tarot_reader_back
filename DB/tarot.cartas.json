@@ -1,0 +1,308 @@
+[{
+  "_id": {
+    "$oid": "64fc6c28c18c4140320d94e2"
+  },
+  "numero": 0,
+  "nombre": "El loco",
+  "descripcion": "Comienzos, espontaneidad, fe ciega, aparente locura, confianza",
+  "interpretacion_positiva": "Estate dispuesto a tomar riesgos y aventurarte en lo desconocido con valentía y entusiasmo. Disfruta los nuevos comienzos, etapas o cambios en tu vida. Estás listo para dejar atrás viejas rutinas y abrirte a nuevas oportunidades, explorar tus habilidades y no preocuparte por las expectativas de los demás. Sigue a tu intuición y a tu corazón",
+  "interpretacion_negativa": "Evita actuar de forma impulsiva o sin planificación y tomar decisiones precipitadas. No te evadas de tus responsabilidades. Se cauteloso en tus acciones y emprendimientos",
+  "cualidades": "Eres una persona valiente, libre, creativa e intuitiva. El mundo está a tus pies cuando confías en ti y decides enfrentar los desafíos",
+  "si_o_no": "Si",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img0-el-loco1.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "64fc7055c18c4140320d94e3"
+  },
+  "numero": 1,
+  "nombre": "El mago",
+  "descripcion": "Acción, conciencia, concentración, poder, capacidad de manifestación, energía, potencial",
+  "interpretacion_positiva": "Aprovecha tu poder creativo y tu habilidad para manifestar tus deseos. Tienes la capacidad de tomar iniciativa y usar tus habilidades de manera efectiva. Esta carta sugiere un gran potencial y éxito en tus proyectos actuales.",
+  "interpretacion_negativa": "Evita caer en el uso indebido de tus habilidades, como el abuso de poder o la manipulación. Sé consciente de tus intenciones y acciones, y no pierdas el foco de tus objetivos",
+  "cualidades": "Tienes la capacidad de conseguir lo que quieres, porque posees la habilidad y las herramientas necesarias para ello. Like a boss",
+  "si_o_no": "¡Super sí!",
+  "imagen": "https://oshaeifa.com/wp-content/uploads/2022/08/El-mago.jpg.webp",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "64fcc0aec18c4140320d94e4"
+  },
+  "numero": 2,
+  "nombre": "La sacerdotisa",
+  "descripcion": "Inacción, análisis del inconsciente. Potencial interior, misterio e intuición",
+  "interpretacion_positiva": "La sacerdotisa te recomienda calma y reflexión. Esperar con paciencia y confiar en tu intuición. Observar, ser receptivo y mirar más allá de lo obvio",
+  "interpretacion_negativa": "Evita la inacción y la pasividad. Está bien pensarte las cosas, pero no demasiado. Asegúrate de no estar negando la realidad, y enfréntate a la realidad",
+  "cualidades": "Tu intuición nunca falla y es difícil que te engañen. Tienes un gran conocimiento de ti mismo e inteligencia emocional. Eres capaz de mantener la calma y el equilibrio emocional ante situaciones difíciles, así como de obtener una comprensión profunda de las situaciones",
+  "si_o_no": "No está claro. Esta carta no se presta a una respuesta binaria. Encontrarás tu respuesta mediante la introspección y la profundidad",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img2-la-suma-sacerdotisa2.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65089c2945bead3641965b43"
+  },
+  "numero": 3,
+  "nombre": "La Emperatriz",
+  "descripcion": "Abundancia, fertilidad, creatividad",
+  "interpretacion_positiva": "Conecta con tu lado más creativo, dale vida a tus proyectos, reconecta con la naturaleza y respeta tus tiempos",
+  "interpretacion_negativa": "Evita ser demasiado posesivo o controlador. No te excedas en tu deseo de proteger a los demás y evita la dependencia. No descuides tu autocuidado por el cuidado a los demás. Debes encontrar el equilibrio.",
+  "cualidades": "Tienes una gran capacidad para generar ideas creativas y proyectos exitosos. Representas la protección, el cuidado y la empatía hacia los demás. Eres un ejemplo de solidez y liderazgo.",
+  "si_o_no": "Sí",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img3-la-emperatriz1.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "6509577c45bead3641965b44"
+  },
+  "numero": 4,
+  "nombre": "El Emperador",
+  "descripcion": "Autoridad, liderazgo, control, estabilidad, protección",
+  "interpretacion_positiva": "El Emperador te aconseja asumir un papel de liderazgo en tu vida, tomar decisiones con confianza y establecer estructuras sólidas. Debes mantener el equilibrio entre el poder y la compasión, proteger lo que es importante y seguir un camino de autodisciplina y responsabilidad.",
+  "interpretacion_negativa": "Evita imponer tu autoridad de manera inflexible. No caigas en la rigidez o el control excesivo. Abstente de ser demasiado dominante o dictatorial en tus relaciones",
+  "cualidades": "Algunas de tus cualidades, según \"El Emperador\", son la capacidad de liderazgo, la habilidad para tomar decisiones sólidas, la protección y el cuidado de los tuyos, y tu enfoque en la estabilidad y la seguridad.",
+  "si_o_no": "Si",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img4-el-emperador1.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "6509598845bead3641965b45"
+  },
+  "numero": 5,
+  "nombre": "El Sumo Sacerdote",
+  "descripcion": "Espiritualidad, conocimiento, tradición, guía espiritual, moralidad, educación.",
+  "interpretacion_positiva": "El sumo sacerdote te aconseja adquirir información, estudiar y aprender. Seguir las normas establecidas. Busca la sabiduría y la orientación de figuras de autoridad en asuntos espirituales. Se fiel a tus valores y ética personal.",
+  "interpretacion_negativa": "Evita la rigidez dogmática o imponer tus creencias a los demás. No te dejes llevar por la hipocresía o la falta de autenticidad en tu búsqueda espiritual.",
+  "cualidades": "Algunas de tus cualidades, según \"El Sumo Sacerdote\", son la búsqueda constante de la sabiduría interior, la capacidad para ser un guía espiritual para otros y la adherencia a un código moral sólido.",
+  "si_o_no": "Si",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img5-el-sumo-sacerdote1.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65095b5845bead3641965b46"
+  },
+  "numero": 6,
+  "nombre": "Los Enamorados",
+  "descripcion": "Amor, elección, unión, dilema, pasión.",
+  "interpretacion_positiva": " \"Los Enamorados\" te aconsejan seguir tu corazón y tomar decisiones basadas en el amor y la pasión. Abraza las conexiones emocionales y busca armonía en tus relaciones. Elige con sinceridad lo que realmente te llena de alegría y plenitud.",
+  "interpretacion_negativa": "Evita tomar decisiones apresuradas por impulso o manipulación emocional. No te sientas atrapado en relaciones o decisiones que no resuenen contigo auténticamente.",
+  "cualidades": "Tus mejores cualidades, según \"Los Enamorados\", incluyen tu habilidad para amar profundamente, tu capacidad de elección consciente y tu disposición para encontrar equilibrio en tus relaciones.",
+  "si_o_no": "No está claro. Los enamorados animan a la toma de decisiones. Debes encontrar tu respuesta escuchando a tu corazón.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img6-los-enamorados1.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65095cab45bead3641965b47"
+  },
+  "numero": 7,
+  "nombre": "El Carro",
+  "descripcion": "Triunfo, control, dirección, avance, determinación.",
+  "interpretacion_positiva": "\"El Carro\" te aconseja tomar el control de tu vida y avanzar con determinación hacia tus metas. Mantén el enfoque y la confianza en ti mismo para superar obstáculos y alcanzar el éxito.",
+  "interpretacion_negativa": "Evita la impulsividad y la falta de dirección. No permitas que la obstinación te lleve a colisiones innecesarias con otros.",
+  "cualidades": "Según \"El Carro\", tus mejores cualidades son la determinación, la habilidad para superar desafíos y la capacidad de mantener el rumbo hacia tus objetivos.",
+  "si_o_no": "Sí. Esta carta representa el avance y el control sobre las circunstancias.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img7-el-carro1.jpg?w=166",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65095e5545bead3641965b48"
+  },
+  "numero": 8,
+  "nombre": "La Fuerza",
+  "descripcion": "Fuerza interior, coraje, compasión, dominio de las pasiones.",
+  "interpretacion_positiva": "\"La Fuerza\" te aconseja utilizar tu fuerza interior y coraje para superar desafíos. Practica la compasión y el autocontrol al enfrentar situaciones difíciles. Confía en tu capacidad para manejar cualquier obstáculo con gracia y fortaleza. Aprende el valor de la paciencia. Procura convencer, antes que imponer. Cultiva tu calma interior y confianza. Mantente suave pero firmme.",
+  "interpretacion_negativa": "Evita la agresividad o el uso excesivo de la fuerza. No reprimas tus emociones de manera destructiva. Practica la asertividad y la compasión",
+  "cualidades": "Según \"La Fuerza\", tus mejores cualidades incluyen la fortaleza interior, la valentía para enfrentar adversidades y la capacidad de controlar tus impulsos de manera compasiva.",
+  "si_o_no": "Sí",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img8-la-fuerza.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65095fca45bead3641965b49"
+  },
+  "numero": 9,
+  "nombre": "El Ermitaño",
+  "descripcion": "Soledad, introspección, sabiduría, búsqueda interior, retiro.",
+  "interpretacion_positiva": "\"El Ermitaño\" te aconseja buscar la soledad para la introspección y la sabiduría. Encuentra respuestas dentro de ti mediante la meditación y el autoexamen. Aprovecha este tiempo para buscar la verdad y la iluminación.",
+  "interpretacion_negativa": "Evita el aislamiento excesivo o la negación de la ayuda externa cuando la necesites. No te sumas en la soledad de manera crónica.",
+  "cualidades": "Tus cualidades incluyen la capacidad de reflexionar profundamente, buscar la verdad y encontrar la sabiduría en la soledad.",
+  "si_o_no": "Puede representar tanto un \"sí\" como un \"no\". Esta carta sugiere la necesidad de tomarte un tiempo para reflexionar antes de tomar una decisión definitiva.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img9-el-ermitac3b1o.jpg?w=167",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "650960fb45bead3641965b4a"
+  },
+  "numero": 10,
+  "nombre": "La Rueda de la Fortuna",
+  "descripcion": "Cambio, destino, ciclos, oportunidades, suerte.",
+  "interpretacion_positiva": "\"La Rueda de la Fortuna\" aconseja que te adaptes a los cambios inevitables de la vida. Aprovecha las oportunidades cuando se presenten, pero mantén la humildad en tiempos de éxito. Reconoce que los ciclos son parte natural de la vida.",
+  "interpretacion_negativa": "Evita resistirte al cambio o aferrarte demasiado a la rutina. No te dejes llevar por la complacencia cuando estés en la cima.",
+  "cualidades": "Según \"La Rueda de la Fortuna\", tus cualidades incluyen adaptabilidad, capacidad de aprovechar oportunidades y comprensión de los ciclos de la vida.",
+  "si_o_no": "Sí, pero no será una situación estática",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img10-la-rueda-de-la-fortuna.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "650962a945bead3641965b4b"
+  },
+  "numero": 11,
+  "nombre": "La Justicia",
+  "descripcion": "Equidad, equilibrio, responsabilidad, consecuencias, legalidad.",
+  "interpretacion_positiva": "\"La Justicia\" aconseja tomar decisiones basadas en la equidad y la objetividad. Actúa con responsabilidad y considera las consecuencias de tus acciones. Busca resolver conflictos de manera justa.",
+  "interpretacion_negativa": "Evita la parcialidad o tomar decisiones impulsivas. No te dejes llevar por la venganza o la injusticia.",
+  "cualidades": "Según \"La Justicia\", tus cualidades incluyen la capacidad de tomar decisiones justas, la objetividad y la preocupación por la equidad.",
+  "si_o_no": "Sí",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img11-la-justicia.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "6509644345bead3641965b4c"
+  },
+  "numero": 12,
+  "nombre": "El Colgado",
+  "descripcion": "Sacrificio, suspensión, cambio de perspectiva, renuncia, reflexión.",
+  "interpretacion_positiva": "\"El Colgado\" aconseja estar dispuesto a hacer sacrificios temporales en busca de una perspectiva más profunda. Acepta cambios y renuncia a controlar todo. La reflexión profunda puede llevar a soluciones inesperadas.",
+  "interpretacion_negativa": "Evita la obstinación o forzar las cosas. No te aferres a lo que ya no sirve.",
+  "cualidades": "Según \"El Colgado\", tus cualidades incluyen la capacidad de renunciar por un bien mayor y la disposición para cambiar de perspectiva.",
+  "si_o_no": "No. El Colgado sugiere la necesidad de renunciar o hacer sacrificios antes de avanzar.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img12-el-colgado.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "6509657645bead3641965b4d"
+  },
+  "numero": 13,
+  "nombre": "La Muerte",
+  "descripcion": "Transformación, cambio, fin de un ciclo, renacimiento, liberación.",
+  "interpretacion_positiva": "\"La Muerte\" aconseja abrazar los cambios y las transformaciones en la vida. Deja ir lo que ya no te sirve y permite el renacimiento. Aprovecha esta oportunidad para crecer y evolucionar.",
+  "interpretacion_negativa": "Evita la resistencia al cambio o aferrarte al pasado. No temas a las transiciones inevitables.",
+  "cualidades": "Según \"La Muerte\", tus cualidades incluyen la capacidad de adaptarte a nuevas circunstancias y la valentía para enfrentar transformaciones con determinación.",
+  "si_o_no": "No",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img13-la-muerte.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "6509690f45bead3641965b4e"
+  },
+  "numero": 14,
+  "nombre": "La Templanza",
+  "descripcion": "Equilibrio, armonía, moderación, adaptación, paciencia.",
+  "interpretacion_positiva": " \"La Templanza\" aconseja encontrar equilibrio y armonía en tu vida. Practica la moderación, adapta tus acciones con paciencia y busca la conciliación en las relaciones y situaciones.",
+  "interpretacion_negativa": "Evita los extremos y la impaciencia. No te dejes llevar por la impulsividad o la falta de adaptación.",
+  "cualidades": "Según \"La Templanza\", tus cualidades incluyen la capacidad para mantener el equilibrio, adaptarte a cambios y ser un pacificador.",
+  "si_o_no": "Sí",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img14-la-templanza.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65096a4e45bead3641965b4f"
+  },
+  "numero": 15,
+  "nombre": "El Diablo",
+  "descripcion": "Tentación, adicción, limitaciones, materialismo, cautiverio.",
+  "interpretacion_positiva": "\"El Diablo\" aconseja enfrentar las tentaciones y limitaciones que te impiden crecer. Rompe cadenas autoimpuestas, libérate de adicciones y evita el materialismo excesivo. Busca la autenticidad y la libertad.",
+  "interpretacion_negativa": "Evita caer en la tentación o el exceso. No te dejes atrapar en relaciones o situaciones que te limiten.",
+  "cualidades": "Según \"El Diablo\", tus cualidades incluyen la capacidad de reconocer tus limitaciones y la fuerza para liberarte de lo que te aprisiona.",
+  "si_o_no": "No. EL Diablo simboliza obstáculos y tentaciones que pueden estar interfiriendo.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img15-el-diablo.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65096ba645bead3641965b50"
+  },
+  "numero": 16,
+  "nombre": "La Torre",
+  "descripcion": "Cambio repentino, destrucción, revelación, caída, pérdida, crisis. Necesidad o proximidad de un cambio brusco",
+  "interpretacion_positiva": "\"La Torre\" aconseja aceptar los cambios abruptos como oportunidades de crecimiento. Abraza la transformación y la liberación de lo que ya no sirve. Reconoce que las crisis pueden llevar a nuevas perspectivas.",
+  "interpretacion_negativa": "Evita la resistencia al cambio o la negación de problemas evidentes. No te aferres a estructuras frágiles.",
+  "cualidades": "Según \"La Torre\", tus cualidades incluyen la capacidad de adaptarte a situaciones inesperadas y la fortaleza para superar desafíos repentinos.",
+  "si_o_no": "No. La Torre simboliza la interrupción y la disolución de situaciones existentes.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img16-la-torre.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65096cd345bead3641965b51"
+  },
+  "numero": 17,
+  "nombre": "La Estrella",
+  "descripcion": "Esperanza, inspiración, iluminación, sanación, optimismo.",
+  "interpretacion_positiva": "\"La Estrella\" aconseja mantener la esperanza y la fe en ti mismo. Busca la inspiración en momentos difíciles y sigue tu camino con optimismo. Permite la sanación y la iluminación interior para superar desafíos.",
+  "interpretacion_negativa": "Evita la desesperanza o la falta de fe en tu propio poder. No te dejes llevar por la negatividad o el pesimismo.",
+  "cualidades": "Según \"La Estrella\", tus cualidades incluyen la capacidad de encontrar la esperanza en momentos oscuros y la inspiración para iluminar los caminos.",
+  "si_o_no": "Sí. La estrella representa la esperanza y la inspiración",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img17-la-estrella.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "65096e5845bead3641965b52"
+  },
+  "numero": 18,
+  "nombre": "La Luna",
+  "descripcion": "Miedo, desconcierto, sentimientos y emociones ocultos, secretos, ilusión, misterio.",
+  "interpretacion_positiva": "\"La Luna\" aconseja confiar en tu intuición y explorar tu mundo incosciente. No te dejes llevar por ilusiones o engaños. Mantén la calma en momentos de confusión y busca la verdad en medio del misterio.",
+  "interpretacion_negativa": "No tengas miedo de iniciar el camino hacia lo desconocido. Evita la negación de tus emociones. No te dejes arrastrar por el miedo irracional.",
+  "cualidades": "Según \"La Luna\", tus cualidades incluyen una profunda intuición y la capacidad de explorar los aspectos ocultos de la vida.",
+  "si_o_no": "No. Representa la confusión y la necesidad de explorar más a fondo.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img18-la-luna.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "6509750045bead3641965b53"
+  },
+  "numero": 19,
+  "nombre": "El Sol",
+  "descripcion": "Alegría, iluminación, éxito, vitalidad, claridad.",
+  "interpretacion_positiva": "\"El Sol\" aconseja abrazar la alegría y la vitalidad de la vida. Busca la claridad y el éxito con optimismo. Ilumina tus caminos y comparte tu luz con los demás, ya que la positividad atrae el éxito.",
+  "interpretacion_negativa": "Evita la negatividad o la falta de confianza en ti mismo. No ocultes tu luz, ni quien eres de verdad.",
+  "cualidades": "Según \"El Sol\", tus cualidades incluyen la alegría, la vitalidad, la claridad mental y la capacidad de irradiar positividad.",
+  "si_o_no": "¡Sí!, El Sol representa la positividad y el éxito.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img19-el-sol.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "650975fc45bead3641965b54"
+  },
+  "numero": 20,
+  "nombre": "El Juicio",
+  "descripcion": "Renacimiento, evaluación, transformación, decisiones importantes, despertar.",
+  "interpretacion_positiva": "\"El Juicio\" aconseja tomar decisiones importantes con una evaluación consciente. Aprovecha la oportunidad de renacer y transformarte. Escucha tu llamado interior y actúa con integridad.",
+  "interpretacion_negativa": "Evita la indecisión o posponer decisiones cruciales. No te cierres a la posibilidad de cambio y crecimiento.",
+  "cualidades": "Según \"El Juicio\", tus cualidades incluyen la capacidad de tomar decisiones reflexivas y la disposición para la transformación personal.",
+  "si_o_no": "Si. Esta carta representa el renacer y los nuevos comienzos.",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img20-el-juicio.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+},
+{
+  "_id": {
+    "$oid": "650976f845bead3641965b55"
+  },
+  "numero": 21,
+  "nombre": "El Mundo",
+  "descripcion": "Cumplimiento, logro, conclusión, éxito, plenitud.",
+  "interpretacion_positiva": "\"El Mundo\" aconseja celebrar tus logros y reconocer que estás en un punto de cumplimiento y éxito. Disfruta de la plenitud y mantén una visión global de tus metas para continuar evolucionando.",
+  "interpretacion_negativa": "Evita la autocomplacencia o el estancamiento en tus éxitos pasados. No limites tu visión solo a lo conocido.",
+  "cualidades": "Según \"El Mundo\", tus cualidades incluyen la capacidad de alcanzar metas, la satisfacción en tus logros y la habilidad para ver el panorama completo.",
+  "si_o_no": "Totalmente Sí. El Sol representa la realización y la plenitud",
+  "imagen": "https://enriquefornesangelesmyblog.files.wordpress.com/2011/08/img21-el-mundo.jpg",
+  "reverso": "https://img.freepik.com/vector-gratis/fondo-pantalla-mistico-dibujado-mano_23-2149459343.jpg?w=360&t=st=1694264117~exp=1694264717~hmac=707048db6cd45ed26f54c696169d1eaf9a975464956853cee7f92f105283cb72"
+}]
