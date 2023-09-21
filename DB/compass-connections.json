@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "2d388396-a072-46ee-9408-18a15aef7358",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1695287405261"
+        }
+      },
+      "favorite": {
+        "name": "MongoDBAtlas",
+        "color": "color7"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://root:Im4fuckingwitch@idbootcamp.zhszgn8.mongodb.net/?retryWrites=true&w=majority",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
